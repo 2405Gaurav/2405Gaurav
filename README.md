@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">Web Dev Enthusiast | Building Futures with Code & Coffee ☕🚀</h3>
+<h1 align="center">नमस्ते 🙏, I'm Gaurav</h1>
+<h3 align="center">Web Dev Enthusiast | Full Stack Explorer | Coffee-Powered Coder ☕🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2405gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="2405gaurav" />
 </p>
 
-<!-- Top right animated profile image -->
+<!-- Profile GIF in top-right -->
 <p align="right">
-  <img align="right" src="https://i.imgflip.com/65efzo.gif" width="150" height="150" />
+  <img src="" width="150" height="150" alt="fun gif profile" />
 </p>
+
+---
+
+### 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=2405gaurav&theme=dracula&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories" alt="2405gaurav trophies" />
@@ -16,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://twitter.com/gauravt55684844" target="blank">
@@ -32,7 +36,7 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -55,13 +59,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2405gaurav&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2405gaurav&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2405gaurav&theme=dracula&hide_border=false" alt="Gaurav's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2405gaurav&theme=dracula&hide_border=false" />
 </div>
+
+---
+
+> ✨ *“Code like poetry should be short and concise.”*  
+> 🔥 Let's build, break, and rebuild — together.
+
