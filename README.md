@@ -7,7 +7,7 @@
 
 <!-- Profile GIF in top-right -->
 <p align="right">
-  <img src="" width="150" height="150" alt="fun gif profile" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="150" height="150" alt="fun gif profile" />
 </p>
 
 ---
