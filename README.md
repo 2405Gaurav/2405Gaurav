@@ -1,76 +1,86 @@
-<h1 align="center">नमस्ते 🙏, I'm Gaurav</h1>
-<h3 align="center">Web Dev Enthusiast | Full Stack Explorer | Coffee-Powered Coder ☕🚀</h3>
+<!-- Optional banner
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
+-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2405gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h3 align="center"> <!-- Add your custom title here --> </h3>
 
-<!-- Fun GIF in the top-right -->
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="150" height="150" alt="fun gif profile" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2405gaurav&theme=dracula&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/gauravt55684844" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gauravt55684844?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/gauravthakur83550" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://www.leetcode.com/eren__01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" alt="LeetCode" />
+<!-- Social Badge -->
+<p align="left">
+  <a href="https://x.com/GauravT55684844" target="blank">
+    <img src="https://img.shields.io/twitter/follow/GauravT55684844?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
 
----
+- 🔭 I’m currently working on *...*  
+- 🌱 Learning more about *...*  
+- 💬 Ask me about *...*  
+- 🚀 Built *...*  
+- 📫 Reach me at *your-email@example.com*  
+- 📎 Connect on [LinkedIn](https://www.linkedin.com/in/gaurav69/)  
+- ⚡ Fun fact: *...*
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/GauravT55684844" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gaurav X" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav69/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Eren__01/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### 📈 GitHub Stats
+### 💻 Tech Stack  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&count_private=true&theme=dracula" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2405gaurav&layout=compact&langs_count=8&theme=dracula" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2405gaurav&theme=dracula" alt="GitHub Streak" />
-</div>
+#### 🚀 Front-End Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ---
 
-> ✨ *“Code, like poetry, should be short and concise.”*  
-> 🔥 Let's build, break, and rebuild — together.
+#### 🔥 Back-End & Blockchain  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851D?style=for-the-badge&logo=metamask&logoColor=white)  
+![Hardhat](https://img.shields.io/badge/Hardhat-FF9900?style=for-the-badge&logo=ethereum&logoColor=white)  
+
+---
+
+#### 🛢 Database & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+---
+
+#### ⚙ Programming Languages  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+#### 🛠 Tools & Platforms  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-008CC1?style=for-the-badge&logo=cisco&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&theme=tokyonight" alt="Gaurav GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2405gaurav&theme=tokyonight" alt="GitHub Streak" />
+</p>
