@@ -82,5 +82,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&theme=tokyonight" alt="Gaurav GitHub Stats" />
-  <img src="https://camo.githubusercontent.com/1809590f9f4bc09501755a724fd75445de671247285b241766b7870b72213787/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170703f757365723d74617267746572267468656d653d746f6b796f6e69676874" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/" alt="GitHub Streak" />
 </p>
