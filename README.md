@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 📫 Reach me at *youremail@example.com*  
+- 📫 Reach me at *gauravthakur83551@gmail.com*  
 - 📎 Connect on [LinkedIn](https://www.linkedin.com/in/gaurav69/)  
 - 🧠 Practicing on [LeetCode](https://leetcode.com/u/Eren__01/)
 
@@ -82,5 +82,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=2405gaurav&show_icons=true&theme=tokyonight" alt="Gaurav GitHub Stats" />
-  <img src="https://camo.githubusercontent.com/" alt="GitHub Streak" />
+  
 </p>
