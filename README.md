@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Thakur</h1>
 <h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India 🇮🇳</h3>
-<img align="right" alt="coding" width="350px" src="coding.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2405Gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="2405Gaurav" />
@@ -17,6 +18,12 @@
 <p align="left">
   <a href="https://linkedin.com/in/gaurav-thakur-2405" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://x.com/GauravT55684844" target="blank">
+    <img src="https://img.shields.io/twitter/follow/GauravT55684844?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
   </a>
 </p>
 
