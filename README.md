@@ -36,26 +36,32 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" alt="Languages" /><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" /><br>
       <b>Languages</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass,figma" alt="Frontend" /><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,sass,figma" /><br>
       <b>Frontend</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" /><br>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /><br>
       <b>Backend</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" /><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
       <b>Tools</b>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
