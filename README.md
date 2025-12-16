@@ -64,13 +64,13 @@
 <div align="center">
 
 <a href="https://github.com/2405Gaurav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=2405Gaurav&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=2405Gaurav&theme=nightowl&hide_border=true&layout=compact&langs_count=8"/>
 </a>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2405Gaurav&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2405Gaurav&theme=nightowl&hide_border=true" alt="streak stats" />
 
 </div>
 
@@ -79,12 +79,12 @@
 ### 🏆 Trophies & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2405Gaurav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=2405Gaurav&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br>
 
-![](https://github-contributor-stats.vercel.app/api?username=2405Gaurav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=2405Gaurav&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 
