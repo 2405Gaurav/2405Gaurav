@@ -1,99 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Gaurav%20Thakur&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20🇮🇳&descAlignY=55&descAlign=50"/>
-</div>
+<h1 align="center">Gaurav Thakur</h1>
 
-<div align="center">
+<p align="center">
+  <b>Software Engineer | Backend Architecture & System Design</b>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=2405Gaurav&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/2405Gaurav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav_Thakur-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gaurav-thakur-2405)
-[![Twitter](https://img.shields.io/badge/Twitter-@GauravT-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/GauravT55684844)
-[![Gmail](https://img.shields.io/badge/Email-gauravthakur2405@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gauravthakur2405@gmail.com)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-<table>
-  <tr>
-    <td valign="center">
-      <br>
-       I am a passionate <b>Full Stack Developer</b> from India. I love building scalable web applications and exploring new technologies to solve real-world problems.
-      <br><br>
-      🌱 <b>I’m currently learning:</b> Advanced Next.js & System Design<br>
-      💬 <b>Ask me about:</b> React, Node.js, and Cloud Architecture<br>
-      📫 <b>How to reach me:</b> gauravthakur2405@gmail.com<br>
-      ⚡ <b>Fun fact:</b> I can debug code in my sleep (literally).
-    </td>
-    <td valign="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding-gif"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" /><br>
-      <b>Languages</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,sass,figma" /><br>
-      <b>Frontend</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /><br>
-      <b>Backend</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
-      <b>Tools</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/2405Gaurav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=2405Gaurav&theme=nightowl&hide_border=true&layout=compact&langs_count=8"/>
-</a>
+<p align="center">
+  <a href="https://github.com/2405Gaurav"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/gaurav-thakur-2405"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/GauravT55684844"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:gauravthakur2405@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2405Gaurav&theme=nightowl&hide_border=true" alt="streak stats" />
+### 👨‍💻 Engineering Approach
 
-</div>
+I am a Full Stack Engineer with a strong bias towards **Backend Systems** and **Database Architecture**. I focus on writing clean, maintainable code and solving complex scalability problems rather than just shipping features.
 
----
-
-### 🏆 Trophies & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2405Gaurav&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+- 🔭 **Current Focus:** Advanced Distributed Systems, Microservices Patterns, and Next.js Performance Optimization.
+- 💡 **Philosophy:** "Code is liability; functionality is an asset." I strive for minimalist, robust solutions.
+- 🛠 **Problem Solving:** I enjoy optimizing database queries, reducing API latency, and architecting fault-tolerant systems.
 
 <br>
 
-![](https://github-contributor-stats.vercel.app/api?username=2405Gaurav&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+### 🛠 Technical Arsenal
 
----
+| Domain | Technologies |
+| :--- | :--- |
+| **Core** | <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=light" height="25" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres&theme=light" height="25" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=light" height="25" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,aws&theme=light" height="25" /> |
+
+<br>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&title_color=0077b5&text_color=666" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2405Gaurav&theme=transparent&hide_border=true&layout=compact&langs_count=6&title_color=0077b5&text_color=666" height="150" alt="languages graph" />
 </div>
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2405Gaurav&color=grey&style=flat-square&label=PROFILE+VIEWS" alt="profile views">
+</p>
