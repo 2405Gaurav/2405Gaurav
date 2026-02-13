@@ -39,19 +39,19 @@ I specialize in the invisible foundation that makes applications fast and secure
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,cpp,ts,js&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=java,cpp,typescript,javascript&theme=tokyonight" alt="Languages" />
 
-**Backend & DB**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,redis,mongo,nodejs,express&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,redis,mongodb,nodejs,express&theme=tokyonight" alt="Backend & DB" />
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman,bash&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,bash&theme=tokyonight" alt="DevOps & Cloud" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=tokyonight" alt="Frontend" />
 
 </div>
 
@@ -59,28 +59,13 @@ I specialize in the invisible foundation that makes applications fast and secure
 
 <div align="center">
 
-<!-- Row 1: GitHub Stats + Streak -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Gaurav's Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=2405Gaurav&theme=tokyonight&hide_border=true&fire=EB4C42&ring=3B82F6" alt="Gaurav's Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Row 2: LeetCode Stats -->
-<a href="https://leetcode.com/u/EREN_01/">
-  <img src="https://leetcard.jacoblin.cool/EREN_01?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
-</a>
+<!-- GitHub Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=2405Gaurav&theme=tokyonight&hide_border=true&fire=EB4C42&ring=3B82F6" alt="Gaurav's Streak" width="48%" />
 
 <br/> <br/>
 
-<!-- Row 3: Activity Graph -->
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=2405Gaurav&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
