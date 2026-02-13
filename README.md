@@ -28,7 +28,7 @@
 user@gaurav:~$ cat philosophy.txt
 > "Wealth isn't built through hype, and neither is good code."
 > Focus: High-Concurrency, Database Locking, Latency Reduction.
-> Status: Building Something & grinding DSA.
+> Status: Building robust distributed systems & mastering DSA.
 ```
 
 I specialize in the invisible foundation that makes applications fast and secure. I don't just write endpoints; I design systems that handle scale, ensuring data integrity and predictable returns on speed.
@@ -39,19 +39,19 @@ I specialize in the invisible foundation that makes applications fast and secure
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,cpp,typescript,javascript&theme=tokyonight" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js&theme=tokyonight" alt="Languages" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,redis,mongodb,nodejs,express&theme=tokyonight" alt="Backend & DB" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,redis,mongodb,nodejs&theme=tokyonight" alt="Backend & DB" />
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,bash&theme=tokyonight" alt="DevOps & Cloud" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git&theme=tokyonight" alt="DevOps & Cloud" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=tokyonight" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=tokyonight" alt="Frontend" />
 
 </div>
 
