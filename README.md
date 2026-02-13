@@ -28,7 +28,7 @@
 user@gaurav:~$ cat philosophy.txt
 > "Wealth isn't built through hype, and neither is good code."
 > Focus: High-Concurrency, Database Locking, Latency Reduction.
-> Status: Building FinCore (Stable Money clone) & grinding DSA.
+> Status: Building Something & grinding DSA.
 ```
 
 I specialize in the invisible foundation that makes applications fast and secure. I don't just write endpoints; I design systems that handle scale, ensuring data integrity and predictable returns on speed.
