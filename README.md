@@ -75,6 +75,6 @@ I specialize in the invisible foundation that makes applications fast and secure
 <div align="center">
   <p>
     <i>"Simplicity is the soul of efficiency."</i><br>
-    <a href="https://thegauravthakur.in"><b>VISIT PORTFOLIO ➜</b></a>
+    <a href="https://thegauravthakur.in"><b>EXPLORE PORTFOLIO ➜</b></a>
   </p>
 </div>
