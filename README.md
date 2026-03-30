@@ -91,7 +91,7 @@ I specialize in the invisible foundation — systems that handle real load, orch
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2405Gaurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=350" height="160" alt="Gaurav's GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=2405Gaurav&theme=tokyonight&hide_border=true&fire=EB4C42&ring=3B82F6&currStreakLabel=3B82F6" height="160" alt="Gaurav's Streak" />
 </div>
